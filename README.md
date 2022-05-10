@@ -52,3 +52,5 @@ The power cable of the switch is to power the switch indicator, the switch is po
 
 ### Light Board
 The dimensions of the connection board are 80mm radius a cricuit<br>
+For details of the light change modes please read the document "Lightmode".<br>
+
