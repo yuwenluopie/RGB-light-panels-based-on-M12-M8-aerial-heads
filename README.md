@@ -49,6 +49,7 @@ Access to mains power<br>
 Power the 6P lines of each of the three cameras.<br>
 The power cables of the three cameras are to supply power to their respective indicator lights, which light up when the cameras are powered up<br>
 The power cable of the switch is to power the switch indicator, the switch is powered and the indicator is on<br>
+![image](https://user-images.githubusercontent.com/88228465/167538234-168fd1f9-8a19-4308-b03f-cdb4b5f59f9c.png)
 
 ### Light Board
 The dimensions of the connection board are 80mm radius a cricuit<br>
